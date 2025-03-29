@@ -15,27 +15,39 @@
     <artifactId>AtlasY</artifactId>
     <version>1.0.0</version>
     <name>AtlasY</name>
-    <description>AtlasY</description>
-    <url>https://github.com/MinmusLin/Spring_Boot_Code_Lab</url>
+    <description>
+        Atlas.Y: Advanced Targeting and Localization Assistance System for Yeast (Backend Application Implemented Based
+        on Spring Boot Framework).
+    </description>
+    <url>https://github.com/Tongji-Software-2024/Atlas.Y_DatabaseWebAPI_SpringBoot</url>
+
+    <organization>
+        <name>Tongji-Software 2024</name>
+        <url>https://github.com/Tongji-Software-2024</url>
+    </organization>
 
     <licenses>
         <license>
-            <name>MIT License</name>
-            <url>https://opensource.org/licenses/MIT</url>
+            <name>Creative Commons Attribution-NonCommercial 4.0 International License</name>
+            <url>https://creativecommons.org/licenses/by-nc/4.0</url>
         </license>
     </licenses>
 
     <developers>
         <developer>
             <name>MinmusLin</name>
+            <url>https://github.com/MinmusLin</url>
             <email>minmuslin@outlook.com</email>
+            <organization>Tongji-Software 2024</organization>
+            <organizationUrl>https://github.com/Tongji-Software-2024</organizationUrl>
         </developer>
     </developers>
 
     <scm>
-        <connection>scm:git:git@github.com:MinmusLin/Spring_Boot_Code_Lab.git</connection>
-        <developerConnection>scm:git:git@github.com:MinmusLin/Spring_Boot_Code_Lab.git</developerConnection>
-        <url>https://github.com/MinmusLin/Spring_Boot_Code_Lab</url>
+        <connection>scm:git:git@github.com:Tongji-Software-2024/Atlas.Y_DatabaseWebAPI_SpringBoot</connection>
+        <developerConnection>scm:git:git@github.com:Tongji-Software-2024/Atlas.Y_DatabaseWebAPI_SpringBoot
+        </developerConnection>
+        <url>https://github.com/Tongji-Software-2024/Atlas.Y_DatabaseWebAPI_SpringBoot</url>
     </scm>
 
     <properties>
