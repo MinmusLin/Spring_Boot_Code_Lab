@@ -14,7 +14,7 @@
     <groupId>cn.minmuslin</groupId>
     <artifactId>AtlasY</artifactId>
     <version>1.0.0</version>
-    <name>AtlasY</name>
+    <name>Atlas.Y_DatabaseWebAPI_SpringBoot</name>
     <description>
         Atlas.Y: Advanced Targeting and Localization Assistance System for Yeast (Backend Application Implemented Based
         on Spring Boot Framework).
